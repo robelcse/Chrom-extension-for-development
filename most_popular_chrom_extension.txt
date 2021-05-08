@@ -1,0 +1,23 @@
+Chrome Extensions List
+1. Monentum 
+2. Bookmark Manager
+3. Google Dictionary
+4. Google Keep
+5. Pocket
+6. I am Gentleman
+7. Awesome Screenshot
+8. Onetab
+9. Colorzilla
+10. What Font
+11. Page Ruler
+12. CSS Shack
+13. Window Resizer
+14. Web Developer
+15. JSON View
+16. Javascript and CSS Code Beautifier 
+17. Wappalyzer
+18. Web Server
+19. Postman
+20. Advance REST Client
+21. Awesome Auto Complete for Github
+22. Marmoset
